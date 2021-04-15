@@ -10,3 +10,11 @@ I am a full stack developer, I enjoy learning and sticking to new technologies i
 ![NodeJS](https://img.shields.io/badge/-NodeJS-212121?style=for-the-badge&logo=nodejs)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-212121?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-212121?style=for-the-badge&logo=mongodb)
+
+### My social networks:
+
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-212121?style=for-the-badge&logo=vk)](https://vk.com/fixmol)
+[![Instagram](https://img.shields.io/badge/-Instagram-212121?style=for-the-badge&logo=instagram)](https://www.instagram.com/fixmol)
+[![Telegram](https://img.shields.io/badge/-Telegram-212121?style=for-the-badge&logo=telegram)](https://t.me/fixmol)
+[![Twitter](https://img.shields.io/badge/-Twitter-212121?style=for-the-badge&logo=twitter)](https://twitter.com/fixmol)
+[![Facebook](https://img.shields.io/badge/-Facebook-212121?style=for-the-badge&logo=facebook)](https://www.facebook.com/fixmol.official)
