@@ -1,6 +1,6 @@
-### Hello everyone! My name is Nick and I'm from Russia. 👋
+### Hello everyone! 👋
 
-I am a full stack developer, I enjoy learning and sticking to new technologies in the development world. I really like what I do, so I will upload my small projects here. I am always open for communication and discussion, for any questions please contact me! 💬😄
+I really like what I do, so I will upload my small projects here. I am always open for communication and discussion, for any questions please contact me! 💬😄
 
 ### Programming languages and tools:
 
