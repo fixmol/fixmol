@@ -1,6 +1,6 @@
 ### Hello everyone! 👋
 
-I really like what I do, so I will upload my small projects here. I am always open for communication and discussion, for any questions please contact me! 💬😄
+I really like what I do, so I will upload my small projects here. For questions please contact me!💬
 
 ### Programming languages and tools:
 
